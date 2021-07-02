@@ -8,6 +8,7 @@ ls -la
 vi ./terraform.tfstate
 ```
 
+```json
 ## 'terraform.tfstate' sample
 {
   "version": 4,
@@ -35,4 +36,4 @@ vi ./terraform.tfstate
                 "capacity_reservation_target": []
               }
             ],
-....
+```
