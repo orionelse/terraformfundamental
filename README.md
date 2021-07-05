@@ -38,25 +38,25 @@
 | Module 4 | [Terraform State Management][PlDu] |
 | Module 5 | [Terraform Import][PlDv] |
 
-   [PlDa]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson1/Module01>
-   [PlDb]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson1/Module02>
-   [PlDc]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson1/Module03>
+   [PlDa]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson1/Module01/firstinitial.md>
+   [PlDb]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson1/Module02/destroy.md>
+   [PlDc]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson1/Module03/understandstate.md>
    [PlDd]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson1/Module04>   
-   [PlDe]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson1/Module05>
+   [PlDe]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson1/Module05/provider-versioning.md>
    [PlDf]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson2/Module01>
    [PlDg]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson2/Module02>
-   [PlDh]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson2/Module03>
-   [PlDi]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson2/Module04>
-   [PlDj]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson2/Module05>
-   [PlDk]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson2/Module06>
-   [PlDl]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson2/Module07>
-   [PlDm]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson2/Module08>
-   [PlDn]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson2/Module09>
-   [PlDo]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson2/Module10>
-   [PlDp]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson2/Module11>
-   [PlDq]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson2/Module12>
-   [PlDr]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson3/Module01>
-   [PlDs]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson3/Module02>
+   [PlDh]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson2/Module03/variable-assignment.md>
+   [PlDi]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson2/Module04/data-type-for-var.md>
+   [PlDj]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson2/Module05/count-param.md>
+   [PlDk]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson2/Module06/conditional-expression.md>
+   [PlDl]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson2/Module07/local-values.md>
+   [PlDm]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson2/Module08/terraform-functions.md>
+   [PlDn]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson2/Module09/data-sources.md>
+   [PlDo]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson2/Module10/debugging-in-terraform.md>
+   [PlDp]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson2/Module11/terraform-fmt.md>
+   [PlDq]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson2/Module12/terraform-validate.md>
+   [PlDr]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson3/Module01/zipmap.md>
+   [PlDs]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson3/Module02/terraform-workspace.md>
    [PlDt]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson3/Module03>
-   [PlDu]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson3/Module04>
-   [PlDv]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson3/Module05>
+   [PlDu]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson3/Module04/tf-state-management.md>
+   [PlDv]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson3/Module05/tf-import.md>
