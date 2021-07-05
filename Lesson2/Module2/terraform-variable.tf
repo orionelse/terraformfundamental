@@ -1,7 +1,7 @@
 ## This snippet for the Terraform Variables document.
 ## in 'resource' section in 'varsdemo.tf' are reference to 'variable' section in 'variable.tf'
 
-### varsdemo.tf
+### terraform-var-demo.tf
 ```sh
 resource "aws_security_group" "var_demo" {
   name        = "orion-variables"
@@ -21,8 +21,8 @@ resource "aws_security_group" "var_demo" {
   }
 
   ingress {
-    from_port   = 53
-    to_port     = 53
+    from_port   = 22
+    to_port     = 22
     protocol    = "tcp"
     cidr_blocks = [var.vpn_ip]
   }
@@ -32,6 +32,6 @@ resource "aws_security_group" "var_demo" {
 
 ```sh
 variable "vpn_ip" {
-  default = "116.50.30.50/32"
+  default = "116.50.50.50/32"
 }
 ```
