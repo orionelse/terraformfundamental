@@ -5,7 +5,7 @@
 ### Table of contents
 ### Lesson1
 ##Lesson 1 : Understanding for deploying Infrastructure with Terraform
-| Sr No | Document Link |
+| # | Document Link |
 | ------ | ------ |
 | Module 1 | [Provider and Resources][PlDa] |
 | Module 2 | [Destroying Infrastructure with Terraform][PlDb] |
@@ -14,7 +14,7 @@
 | Module 5 | [Provider Versioning][PlDe] |
 
 ##Lesson 2 : Read, Generate, Modify Configurations
-| Sr No | Document Link |
+| # | Document Link |
 | ------ | ------ |
 | Module 1 | [Attributes and Output Values][PlDf] |
 | Module 2 | [Terraform variables][PlDg] |
@@ -31,15 +31,13 @@
 
 
 ##Lesson 3 : Bonus track
-| Sr No | Document Link |
+| # | Document Link |
 | ------ | ------ |
 | Module 1 | [Zipmap Function][PlDr] |
 | Module 2 | [Terraform Modules & Workspaces Understanding the DRY principle][PlDs] |
 | Module 3 | [Remote state management with terraform][PlDt] |
 | Module 4 | [Terraform State Management][PlDu] |
 | Module 5 | [Terraform Import][PlDv] |
-
-### Lesson2
 
    [PlDa]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson1/Module01>
    [PlDb]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson1/Module02>
