@@ -7,5 +7,3 @@ terraform {
     secret_key = "PUT-YOUR-SECRET-KEY-HERE"
   }
 }
-
-#key : is TFSTATE file name
