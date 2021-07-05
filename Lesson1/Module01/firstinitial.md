@@ -36,7 +36,6 @@ terraform plan
 terraform apply
 ```
 ----
-----
 #### Documentation Referred:
 
 https://registry.terraform.io
