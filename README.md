@@ -7,37 +7,37 @@
 ##Lesson 1 : Understanding for deploying Infrastructure with Terraform
 | Sr No | Document Link |
 | ------ | ------ |
-| Module 1 | [Provider and Resources] [PlDa] |
-| Module 2 | [Destroying Infrastructure with Terraform] [PlDb] |
-| Module 3 | [Understanding Terraform State File] [PlDc] |
-| Module 4 | [Desired & Current State] [PlDd] |
-| Module 5 | [Provider Versioning] [PlDe] |
+| Module 1 | [Provider and Resources][PlDa] |
+| Module 2 | [Destroying Infrastructure with Terraform][PlDb] |
+| Module 3 | [Understanding Terraform State File][PlDc] |
+| Module 4 | [Desired & Current State][PlDd] |
+| Module 5 | [Provider Versioning][PlDe] |
 
 ##Lesson 2 : Read, Generate, Modify Configurations
 | Sr No | Document Link |
 | ------ | ------ |
-| Module 1 | [Attributes and Output Values] [PlDf] |
-| Module 2 | [Terraform variables] [PlDg] |
-| Module 3 | [Approach for Variable Assignment] [PlDh] |
-| Module 4 | [Data Types for Variables] [PlDi] |
-| Module 5 | [Count Parameter] [PlDj] |
-| Module 6 | [Conditional Expression] [PlDk] |
-| Module 7 | [Local Values] [PlDl] |
-| Module 8 | [Terraform Functions] [PlDm] |
-| Module 9 | [Data Sources] [PlDn] |
-| Module 10 | [Debugging in Terraform] [PlDo] |
-| Module 11 | [Terraform Format] [PlDp] |
-| Module 12 | [Terraform Validate] [PlDq] |
+| Module 1 | [Attributes and Output Values][PlDf] |
+| Module 2 | [Terraform variables][PlDg] |
+| Module 3 | [Approach for Variable Assignment][PlDh] |
+| Module 4 | [Data Types for Variables][PlDi] |
+| Module 5 | [Count Parameter][PlDj] |
+| Module 6 | [Conditional Expression][PlDk] |
+| Module 7 | [Local Values][PlDl] |
+| Module 8 | [Terraform Functions][PlDm] |
+| Module 9 | [Data Sources][PlDn] |
+| Module 10 | [Debugging in Terraform][PlDo] |
+| Module 11 | [Terraform Format][PlDp] |
+| Module 12 | [Terraform Validate][PlDq] |
 
 
 ##Lesson 3 : Bonus track
 | Sr No | Document Link |
 | ------ | ------ |
-| Module 1 | [Zipmap Function] [PlDr] |
-| Module 2 | [Terraform Modules & Workspaces Understanding the DRY principle] [PlDs] |
-| Module 3 | [Remote state management with terraform] [PlDt] |
-| Module 4 | [Terraform State Management] [PlDu] |
-| Module 5 | [Terraform Import] [PlDv] |
+| Module 1 | [Zipmap Function][PlDr] |
+| Module 2 | [Terraform Modules & Workspaces Understanding the DRY principle][PlDs] |
+| Module 3 | [Remote state management with terraform][PlDt] |
+| Module 4 | [Terraform State Management][PlDu] |
+| Module 5 | [Terraform Import][PlDv] |
 
 ### Lesson2
 
