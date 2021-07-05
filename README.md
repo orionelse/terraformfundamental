@@ -55,8 +55,8 @@
    [PlDo]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson2/Module10>
    [PlDp]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson2/Module11>
    [PlDq]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson2/Module12>
-   [PlDr]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson3/Module1>
-   [PlDs]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson3/Module2>
-   [PlDt]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson3/Module3>
-   [PlDu]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson3/Module4>
-   [PlDv]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson3/Module5>
+   [PlDr]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson3/Module01>
+   [PlDs]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson3/Module02>
+   [PlDt]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson3/Module03>
+   [PlDu]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson3/Module04>
+   [PlDv]: <https://github.com/orionelse/terraformfundamental/tree/main/Lesson3/Module05>
