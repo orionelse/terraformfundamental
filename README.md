@@ -3,8 +3,7 @@
 
 
 ### Table of contents
-### Lesson1
-##Lesson 1 : Understanding for deploying Infrastructure with Terraform
+### Lesson1 : Understanding for deploying Infrastructure with Terraform
 | # | Document Link |
 | ------ | ------ |
 | Module 1 | [Provider and Resources][PlDa] |
@@ -13,7 +12,7 @@
 | Module 4 | [Desired & Current State][PlDd] |
 | Module 5 | [Provider Versioning][PlDe] |
 
-##Lesson 2 : Read, Generate, Modify Configurations
+### Lesson 2 : Read, Generate, Modify Configurations
 | # | Document Link |
 | ------ | ------ |
 | Module 1 | [Attributes and Output Values][PlDf] |
@@ -30,7 +29,7 @@
 | Module 12 | [Terraform Validate][PlDq] |
 
 
-##Lesson 3 : Bonus track
+### Lesson 3 : Bonus track
 | # | Document Link |
 | ------ | ------ |
 | Module 1 | [Zipmap Function][PlDr] |
