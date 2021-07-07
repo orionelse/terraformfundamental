@@ -1,5 +1,5 @@
 # terraformfundamental
-# Propose to use with Terraform fundamental Documentation
+# Purpose to use with Terraform fundamental Documentation
 
 
 ### Table of contents
