@@ -1,5 +1,5 @@
 # terraformfundamental
-# Purpose to use with Terraform fundamental Documentation
+# This repo purposed to use with Terraform fundamental Documentation
 
 
 ### Table of contents
